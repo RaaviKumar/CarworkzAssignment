@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "698587623411",
+    "firebase_url": "https://carworkz-assignment.firebaseio.com",
+    "project_id": "carworkz-assignment",
+    "storage_bucket": "carworkz-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698587623411:android:a04b6be723aed2e1",
+        "android_client_info": {
+          "package_name": "com.android.carworkzassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698587623411-ggh0hmi8m4rhu3o10rie3isessmkn86f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnfCKAIAo_SsjGgoVcVdEauS1mNLwGCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

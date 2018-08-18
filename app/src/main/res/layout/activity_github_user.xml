@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.GithubUserActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_github_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/iv_user_filter"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        app:srcCompat="@mipmap/ic_filter"
+        android:background="@drawable/bg_filter_circle"
+        android:padding="@dimen/_12sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="@dimen/_18sdp"
+        />
+
+</RelativeLayout>
